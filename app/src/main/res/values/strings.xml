@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Week4</string>
+
+    <string-array name="countries_names">
+        <item>United States of America</item>
+        <item>India</item>
+        <item>Brazil</item>
+        <item>Russian Federation</item>
+        <item>United Kingdom</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Spain</item>
+        <item>Turkey</item>
+        <item>Germany</item>
+    </string-array>
+
+    <string-array name="total_case">
+        <item>24,434,283</item>
+        <item>10,610,883</item>
+        <item>8,638,249</item>
+        <item>3,595,136</item>
+        <item>3,515,796</item>
+        <item>3,023,661</item>
+        <item>2,414,166</item>
+        <item>2,412,318</item>
+        <item>2,406,216</item>
+        <item>2,100,618</item>
+    </string-array>
+
+    <string-array name="new_case">
+        <item>+2,178,255</item>
+        <item>+15,244</item>
+        <item>+64,385</item>
+        <item>+20,806</item>
+        <item>+38,992</item>
+        <item>+17,191</item>
+        <item>+13,568</item>
+        <item>+41,576</item>
+        <item>+8,917</item>
+        <item>+29,003</item>
+    </string-array>
+</resources>
